@@ -21,5 +21,11 @@ public class APITesting {
 		
 		System.out.println("This is DELETE method request");
 	}
+	
+	@Test
+	   public void deleteAPI2() {
+			
+			System.out.println("This is DELETE method 2 request");
+		}
 
 }
